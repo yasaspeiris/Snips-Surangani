@@ -8,11 +8,11 @@ A voice enabled energy monitoring app made using snips AI
 The Action code is built using the action-code template provided by snips. Link : https://github.com/snipsco/snips-app-template-py
 
 
-##Tutorial
+## Tutorial
 Full instructions can be found at : https://www.hackster.io/yasaspeiris/surangani-voice-enabled-energy-monitoring-28b505
 
 
-##Videos
+## Videos
 Demo 1
 
 https://www.youtube.com/watch?v=vIhZIAOaMZI
