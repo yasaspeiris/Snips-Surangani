@@ -7,6 +7,7 @@ A voice enabled energy monitoring app made using snips AI
 ## Dependencies
 The Action code is built using the action-code template provided by snips. Link : https://github.com/snipsco/snips-app-template-py
 
+powerMonitor App for Surangani can be fount in the Snips Store : https://console.snips.ai/store/en/skill_AdaOaKYy0P9
 
 ## Tutorial
 Full instructions can be found at : https://www.hackster.io/yasaspeiris/surangani-voice-enabled-energy-monitoring-28b505
